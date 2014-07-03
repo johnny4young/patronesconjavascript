@@ -1,0 +1,6 @@
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\bin\WebEmpty.dll.config
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\bin\WebEmpty.dll
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\bin\WebEmpty.pdb
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\obj\Debug\WebEmpty.csprojResolveAssemblyReference.cache
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\obj\Debug\WebEmpty.dll
+T:\SE\WorkShop\Taller 04\WebEmpty\WebEmpty\obj\Debug\WebEmpty.pdb
